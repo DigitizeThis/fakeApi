@@ -1,0 +1,2 @@
+# fakeApi
+JSON data Placeholder
